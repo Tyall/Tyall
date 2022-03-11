@@ -2,7 +2,7 @@
 - 👀 I’m interested in machine learning and web app development
 - 🌱 I’m currently learning depths of Java and Spring framework 
 
-Feel free to check out my projects!
+Feel free to check out my newest projects!
 - [SuperSliding Machines](https://github.com/Tyall/SuperSliding-Machines)
 - [Gotowankoo](https://github.com/Tyall/gotowankoapp)
 
