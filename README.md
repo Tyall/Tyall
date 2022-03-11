@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning depths of Java and Spring framework 
 
 Feel free to check out my projects!
-[SuperSliding Machines](https://github.com/Tyall/SuperSliding-Machines)
-[Gotowankoo](https://github.com/Tyall/gotowankoapp)
+- [SuperSliding Machines](https://github.com/Tyall/SuperSliding-Machines)
+- [Gotowankoo](https://github.com/Tyall/gotowankoapp)
 
 
 <!---
