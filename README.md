@@ -1,9 +1,6 @@
 - 👋 Hi, I’m Dawid
-- 👀 I’m interested in machine learning and web app development
-- 🌱 I’m currently learning depths of Java and Spring framework 
-
-
-
+- 👀 Microservices. I love microservices. All of them
+- 🌱 Java, Spring, Spring Boot, SQL, JS, JSTL, Angular
 
 <!---
 Tyall/Tyall is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
