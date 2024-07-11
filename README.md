@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Dawid
 - 👀 Microservices. I love microservices. All of them
-- 🌱 Java, Spring, Spring Boot, SQL, JS, JSTL, Angular
+- 🌱 Java will never die
 
 <!---
 Tyall/Tyall is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
