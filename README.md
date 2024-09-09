@@ -8,9 +8,9 @@ _'AI won't take your job, It is somebody using AI that will take your job' ~ R. 
 
 
 ## Take a look at my projects!
-_Disclaimer: each project has more details in respective readme files inside their repositories_ 
+_Each project has more details in respective readme files inside their repositories. Click on the project name to open it!_ 
 
-_Some of them may appear as private as of now due to the my profile still being under construction. I'm sorry!_
+__Disclaimer: Some of them may appear as private as of now due to the my profile still being under construction. I'm sorry!_
 ### Personal projects
 I thought i had a great idea. That's how every single one of these projects started. They were all created with the intention of being used. Some of them actually are!
 My personal projects are usually related to one of my hobbies. And trust me, i have lots of hobbies so more projects will come! Feel free to explore or get inspired! 
