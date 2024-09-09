@@ -21,7 +21,7 @@ My personal projects are usually related to one of my hobbies. And trust me, i h
 
 ### Learning projects
 Learning projects were created with intention of bringing as much educational value as possible. I tried to cover many topics, understand and implement them while also trying to mainain best practises and clean code.
-Ideas for some of these projects come either from myself or educational websites like [HyperSkill]((https://hyperskill.org/) by JetBrains however all the development is solely my work.
+Ideas for some of these projects come either from myself or educational websites like [HyperSkill](https://hyperskill.org/) by JetBrains however all the development is solely my work.
 
 * [File Server](https://github.com/Tyall/hs-file-server) - A simple file server controlled through CLI performing crud operations via client-server architecture written in vanilla Java 17
 * [Meal Planner](https://github.com/Tyall/hs-meal-planner) - Meal planner CLI application utilizing JDBC and PostgreSQL written in vanilla Java 17
