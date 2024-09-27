@@ -25,7 +25,7 @@ Ideas for some of these projects come either from myself or educational websites
 
 * [File Server](https://github.com/Tyall/hs-file-server) - A simple file server controlled through CLI performing crud operations via client-server architecture written in vanilla Java 17
 * [Meal Planner](https://github.com/Tyall/hs-meal-planner) - Meal planner CLI application utilizing JDBC and PostgreSQL written in vanilla Java 17
-* Blockchain (WIP) - Work in progress...
+* [Blockchain](https://github.com/Tyall/hs-blockchain) - Blockchain with a simple simulation including mining and transactions between users written in vanilla Java 17
 <!---
 Tyall/Tyall is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
