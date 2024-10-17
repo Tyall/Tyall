@@ -16,7 +16,7 @@ I thought i had a great idea. That's how every single one of these projects star
 My personal projects are usually related to one of my hobbies. And trust me, i have lots of hobbies so more projects will come! Feel free to explore or get inspired! 
 
 * [SuperSliding Machines](https://github.com/Tyall/SuperSliding-Machines) - 3D Android game created in Unity, C#. My biggest project, started for fun, ended as Engineering Thesis topic.
-* [Motorsport Buddy (WIP)](https://github.com/Tyall/motorsport-buddy) - Spring Boot + Angular webapp for checking statistics and information about most popular motorsport series.
+* [Motorsport Buddy (WIP)](https://github.com/Tyall/motorsport-buddy-frontend) - Spring Boot + Angular webapp for checking statistics and information about most popular motorsport series.
 * [15-10-5 Workout Tracker (WIP)](https://github.com/Tyall/15-10-5-workout-tracker/tree/development) - Spring Boot + Angular webapp for tracking workouts in 15-10-5 training plan.
 
 ### Learning projects
