@@ -3,7 +3,7 @@
 - 🎓 BSc. of Computer Science
 - 🌱 Full-stack software developer specialized in Java and Spring Boot
 - 👀 Learning something new everyday
-- 🎓 Certified Java and Spring Boot Developer by JetBrains Academy - [HyperSkill profile] (https://hyperskill.org/profile/616772386)
+- 🎓 Certified Java and Spring Boot Developer by JetBrains Academy - [HyperSkill profile](https://hyperskill.org/profile/616772386)
 
 _'AI won't take your job, It is somebody using AI that will take your job' ~ R. Baldwin_
 
