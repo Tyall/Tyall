@@ -25,7 +25,7 @@ Learning projects were created with intention of bringing as much educational va
 Ideas for some of these projects come either from myself or educational websites like [HyperSkill](https://hyperskill.org/) by JetBrains however all the development is solely my work.
 
 Spring Boot:
-* [Web Quiz Engine](https://github.com/Tyall/hs-web-quiz-engine) - RESTful API based on Spring Boot incorporating core concepts of the framework like web, data-jpa and security
+* [Web Quiz Engine](https://github.com/Tyall/hs-web-quiz-engine) - RESTful API based on Spring Boot incorporating core concepts of the framework like web, data-jpa and security. Covered with wide tests utilizing JUnit and Mockito.
 
 Vanilla Java:
 * [Blockchain](https://github.com/Tyall/hs-blockchain) - Blockchain with a simple simulation including mining and transactions between users written in vanilla Java 17
